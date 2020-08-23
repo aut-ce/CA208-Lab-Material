@@ -1,0 +1,38 @@
+## Ignored Files
+
+## Ignore ModelSim generated files and directories {{{
+[_@]*
+
+## }}}
+
+## ignore compilation output of ModelSim {{{
+*.mti
+*.dat
+*.dbs
+*.psm
+*.bak
+*.cmp
+*.jpg
+*.html
+*.bsf
+## }}}
+
+## ignore simulation output of ModelSim {{{
+wlf*
+*.wlf
+*.vstf
+*.ucdb
+cov*/
+transcript*
+sc_dpiheader.h
+vsim.dbg
+# }}}
+
+## ignore work of ModelSim {{{
+_info
+_lib1_0.qdb
+_lib1_0.qpg
+_lib1_0.qtl
+_lib.qdb
+_vmake
+# }}}
