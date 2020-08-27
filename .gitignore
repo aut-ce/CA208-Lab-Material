@@ -1,5 +1,7 @@
 ## Ignored Files
 
+## Ignore CA-Lab Manual
+CA-Lab-Manual.pdf
 ## Ignore ModelSim generated files and directories {{{
 [_@]*
 
@@ -7,6 +9,7 @@
 
 ## ignore compilation output of ModelSim {{{
 *.mti
+*.mpf
 *.dat
 *.dbs
 *.psm
@@ -29,10 +32,10 @@ vsim.dbg
 # }}}
 
 ## ignore work of ModelSim {{{
-_info
-_lib1_0.qdb
-_lib1_0.qpg
-_lib1_0.qtl
-_lib.qdb
-_vmake
+*_info
+*_lib1_0.qdb
+*_lib1_0.qpg
+*_lib1_0.qtl
+*_lib.qdb
+*_vmake
 # }}}
