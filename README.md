@@ -33,5 +33,4 @@ AUT Computer Architecture Laboratory Material and Template Sources
 
 * after getting good grade in course, add your id and grade to [**who-know-ce-lab.md**](./who-know-ce-lab.md) by pull request!
 
-
 * drink a tea!
