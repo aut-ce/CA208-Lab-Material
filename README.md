@@ -16,6 +16,8 @@ AUT Computer Architecture Laboratory Material and Template Sources
 
 [**:pencil2: Lab-04**](https://github.com/aut-ce/CA208-Lab-Material/tree/master/Lab-04/assignment)
 
+[**:pencil2: Lab-05**](https://github.com/aut-ce/CA208-Lab-Material/tree/master/Lab-05/assignment)
+
 ## How to Complete Lab Course Geeks way
 * Clone repository to own account.
 
