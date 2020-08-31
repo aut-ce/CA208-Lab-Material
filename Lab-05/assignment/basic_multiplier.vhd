@@ -22,9 +22,9 @@
 -----------------------------------------------------------
 entity basic_multiplier is
 	port (
-		A    : in  std_logic_vector(3 downto 0);
-		B    : in  std_logic_vector(3 downto 0);
-		P    : out std_logic_vector(7 downto 0)
+		A : in  std_logic_vector(3 downto 0);
+		B : in  std_logic_vector(3 downto 0);
+		P : out std_logic_vector(7 downto 0)
 	);
 end basic_multiplier;
 

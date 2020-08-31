@@ -17,14 +17,14 @@
 --*/
 
 -----------------------------------------------------------
----  Module Name: Basic Multiplier 
----  Description: Basic Multiplier 4 Bits
+---  Module Name: Carry Save Multiplier 
+---  Description: Carry Save Multiplier 4 Bits
 -----------------------------------------------------------
 entity carry_save_multiplier is
 	port (
-		A    : in  std_logic_vector(3 downto 0);
-		B    : in  std_logic_vector(3 downto 0);
-		P    : out std_logic_vector(7 downto 0)
+		A : in  std_logic_vector(3 downto 0);
+		B : in  std_logic_vector(3 downto 0);
+		P : out std_logic_vector(7 downto 0)
 	);
 end carry_save_multiplier;
 

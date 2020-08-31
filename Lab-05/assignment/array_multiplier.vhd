@@ -17,14 +17,14 @@
 --*/
 
 -----------------------------------------------------------
----  Module Name: Basic Multiplier 
----  Description: Basic Multiplier 4 Bits
+---  Module Name: Array Multiplier 
+---  Description: Array Multiplier 4 Bits
 -----------------------------------------------------------
 entity array_multiplier is
 	port (
-		A    : in  std_logic_vector(3 downto 0);
-		B    : in  std_logic_vector(3 downto 0);
-		P    : out std_logic_vector(7 downto 0)
+		A : in  std_logic_vector(3 downto 0);
+		B : in  std_logic_vector(3 downto 0);
+		P : out std_logic_vector(7 downto 0)
 	);
 end array_multiplier;
 

@@ -32,7 +32,7 @@ end full_adder;
 
 architecture full_adder_arc of full_adder is
 begin
-	
+
 	-- write your code here!
 
 end full_adder_arc;
