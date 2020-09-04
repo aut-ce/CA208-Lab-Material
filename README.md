@@ -18,19 +18,20 @@ AUT Computer Architecture Laboratory Material and Template Sources
 
 [**:pencil2: Lab-05**](https://github.com/aut-ce/CA208-Lab-Material/tree/master/Lab-05/assignment)
 
-## How to Complete Lab Course Geeks way
-* Clone repository to own account.
+[**:pencil2: Lab-06**](https://github.com/aut-ce/CA208-Lab-Material/tree/master/Lab-06/assignment)
 
-* Don't upload your codes in public domain.
+## How to Complete Lab Course as Good Student
+[1] Clone repository to own account.
 
-* Update cloned branch for new assignments template (`git pull`)
+[2] Don't upload your codes in public domain.
 
-* Create new branch for assignments (`git branch ca-lab-xx`)
+[3] Update cloned branch for new assignments template (`git pull`)
 
-* commit your codes in branch (`git add lab-xx & git commit`)
+[4] Create new branch for assignments (`git branch ca-lab-xx`)
 
-* set branch remote to private repository like CEIT Gitlab (`git push -u https://git.ce.aut.ac.ir/XYZ lab-xx`)
+[5] commit your codes in branch (`git add lab-xx & git commit`)
 
-* after getting good grade in course, add your id and grade to [**who-know-ce-lab.md**](./who-know-ce-lab.md) by pull request!
+[6] set branch remote to private repository like CEIT Gitlab (`git push -u https://git.ce.aut.ac.ir/XYZ lab-xx`)
 
-* drink a tea!
+[7] after getting good grade in course, add your id and grade to [**who-know-ce-lab.md**](./who-know-ce-lab.md) by pull request!
+
