@@ -37,7 +37,7 @@ architecture testbench of tb_module is
 
 
 	-- Inputs
-	
+
 
 begin
 

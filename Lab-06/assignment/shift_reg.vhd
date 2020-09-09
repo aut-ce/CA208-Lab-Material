@@ -20,27 +20,27 @@
 ---  Module Name: Shift Register
 ---  Description: Shift Register
 -----------------------------------------------------------
-entity basic_multiplier is
+entity shift_reg is
 	port (
-		clock : in  std_logic; 
-		reset : in  std_logic; 
-		load : in  std_logic; 
-		data_in : in  std_logic_vector(3 downto 0);
-		mode : in  std_logic_vector(1 downto 0); 
+		clock    : in  std_logic;
+		reset    : in  std_logic;
+		load     : in  std_logic;
+		data_in  : in  std_logic_vector(3 downto 0);
+		mode     : in  std_logic_vector(1 downto 0);
 		data_out : out std_logic_vector(3 downto 0)
 	);
-end basic_multiplier;
+end shift_reg;
 
-architecture basic_multiplier_arc of basic_multiplier is
+architecture shift_reg_arc of shift_reg is
 
-	-- add full adder and half adder component here
+	-- add signals and components here
 
 begin
 
 	-- write your code here!
 	-- if mode(1) = 1 -> left shift else right shift
 	-- if mode(0) = 1 -> shift is arithmetic else logical
-	-- when mode = "00" don't shift 
+	-- if mode = "11" -> don't shift
 	-- orders of inputs reset > load > mode
 
-end basic_multiplier_arc;
+end shift_reg_arc;

@@ -31,6 +31,7 @@ entity seven_segment is
 end seven_segment;
 
 architecture arc of seven_segment is
+
 begin
 
 	-- write your code here !

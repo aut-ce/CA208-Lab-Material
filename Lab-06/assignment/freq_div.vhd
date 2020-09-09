@@ -30,8 +30,6 @@ end freq_div;
 
 architecture freq_div_arc of freq_div is
 
-
-
 begin
 	-- divide input clock freq to divide number
 
